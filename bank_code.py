@@ -61,8 +61,7 @@ Ram = Bank_v3("Ramul", 23, 2345, 1234, 23456)
 # Method Calling
 Ram.customer_details()
 Ram.bank_details()
-```
-```python
+
 # Multiple Inheritance
 
 class Bank_v1:
